@@ -8,7 +8,7 @@ namespace ManipulaçãoTxt
     {
         static void Main(string[] args)
         {
-            string caminho = "C:../../../../ManipulaçãoTxt/Prova Estagio DEV - Anexo 1.txt";
+            string caminho = "C:../../../Prova Estagio DEV - Anexo 1.txt";
             List<Pessoas> lista = new List<Pessoas>();
             if (File.Exists(caminho))
             {

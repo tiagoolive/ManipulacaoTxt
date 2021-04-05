@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ManipulaçãoTxt": {
+      "commandName": "Project"
+    },
+    "newProfile1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Tijolo\\source\\repos\\ManipulaçãoTxt\\Server\\obj\\Debug\\netcoreapp3.1\\apphost.exe"
+    }
+  }
+}
